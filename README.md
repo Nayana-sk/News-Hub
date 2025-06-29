@@ -24,7 +24,7 @@ A modern, responsive news aggregator built with React, TypeScript, and Tailwind 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Nayana-sk/News-Hub.git
 cd newshub
 ```
 
