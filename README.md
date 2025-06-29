@@ -120,7 +120,7 @@ src/
 └── main.tsx           # Application entry point
 ```
 
-ScreenShots
+### ScreenShots
 ![image](https://github.com/user-attachments/assets/fd1ee846-5ad8-4188-b9a2-182f9f4bd9e4)
 
 ![image](https://github.com/user-attachments/assets/6632a06c-e26b-4f0f-a167-82266590d612)
