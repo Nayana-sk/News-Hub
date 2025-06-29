@@ -120,6 +120,18 @@ src/
 └── main.tsx           # Application entry point
 ```
 
+ScreenShots
+![image](https://github.com/user-attachments/assets/fd1ee846-5ad8-4188-b9a2-182f9f4bd9e4)
+
+![image](https://github.com/user-attachments/assets/6632a06c-e26b-4f0f-a167-82266590d612)
+
+![image](https://github.com/user-attachments/assets/a1001090-238b-4e41-8a71-b9688f656f23)
+
+![image](https://github.com/user-attachments/assets/54547962-ab6e-4ba6-b083-056f46dd0d18)
+
+
+
+
 ## 🚀 Deployment
 
 The application can be deployed to various platforms:
@@ -143,5 +155,5 @@ This project is created as a technical challenge and is available for educationa
 
 ---
 
-Built with ❤️ using React, TypeScript, and modern web technologies.
+Built React, TypeScript, and modern web technologies.
 ```
